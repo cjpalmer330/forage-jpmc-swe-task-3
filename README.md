@@ -1,2 +1,2 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+This repository was used to complete task 3 of JPMC's Forage program, where I was given most of this repository, and told to make certain changes to meet the requirements.
